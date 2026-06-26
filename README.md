@@ -1,4 +1,5 @@
-# mi app#
+<h1 align="center">🧮 Mi App</h1>
+
 Esta aplicacion solo es un sumador y restador de un sol onumeros donde pueden salir numeros del - infinito al + infinito , es solo una app de prueba para entender como funciona la forma de programar flutter
 
 https://www.mediafire.com/file/48zzj87na9ihsoq/Suma_and_resta.apk/file
